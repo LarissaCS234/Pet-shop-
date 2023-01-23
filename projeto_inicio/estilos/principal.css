@@ -30,3 +30,24 @@ border-color: #C0262C;
 body { 	
 font-family: Helvetica, Arial, sans-serif; 
 }
+
+/* página produtos - tabela */
+
+#produtos table {
+    width: 600px;
+    margin: 50px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+#produtos th, #produtos td{
+    border: #999 solid 1px;
+    padding: 5px; 
+}
+
+#produtos caption {
+    background-color: #999;
+    color: #fff;
+    padding: 15px 0;
+    font-size: ;
+}
