@@ -406,3 +406,9 @@ input[type="submit"] {
     background-color: rgba(255, 255, 255, 0.7);
     bottom: 0;
 }
+
+/* Controle de áudio */
+
+aside audio {
+    width: 230px;
+}
